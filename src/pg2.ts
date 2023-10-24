@@ -1,9 +1,9 @@
 enum CarName {
     Honda,
     Toyota,
-    Alto,
+    BMW,
     Swift,
 }
-let gg = CarName.Alto;
+let ggt = CarName.BMW;
 console.log(CarName);
-console.log("Value of Alto is : "+ gg);
+console.log("Value of BMW is : "+ ggt);
